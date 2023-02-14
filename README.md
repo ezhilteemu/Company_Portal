@@ -13,7 +13,8 @@ Mkdir storage/framework/cache/data
 Mkdir storage/framework/sessions
 Mkdir storage/framework/testing
 Mkdir storage/framework/views
-Run "composer require laravel".
+
+Run "composer require laravel". "composer update"
 
 Run "npm install".
 
